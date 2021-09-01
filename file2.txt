@@ -1,5 +1,5 @@
-# second file (alternated)
+# second file (alternated)..
 This is new file
-##h1 (alternated)
+##h1 (alternated)..
 new code
 end of the file..
