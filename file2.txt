@@ -1,6 +1,5 @@
-# second file (alternated)
 This is new file
 ##h1 ( code modified)
 ##h1 (alternated)
 new code
-end of the file...... code modified
+end of the file...... code modifiedend of the file..
